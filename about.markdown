@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-##Hi! I'm Rishika.
+Hi! I'm Rishika.
 
 I’m a UX designer with experience in a fast paced working environments who tackles design problem from multiple points of views. I intend to work on problems of diverse scope and craft a vision to set a project up for long-term success. My process-oriented workflow, analytical and observant nature helps me to develop smart design solutions to enhance the user experience. 
 
